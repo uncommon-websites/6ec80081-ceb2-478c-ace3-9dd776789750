@@ -3,32 +3,32 @@
 
 	const faqs = [
 		{
-			question: "How does Greptile pricing work?",
-			answer: "Greptile charges per active developer. An active developer is anyone who opens a PR in a given month."
+			question: "Is Avalonia UI really free?",
+			answer: "Yes! Avalonia UI is completely free and open source under the MIT license. You can use it in any project, commercial or personal, without any fees or restrictions."
 		},
 		{
-			question: "Can Greptile be self-hosted?",
-			answer: "Yes, Greptile can be deployed in your own VPC or on-premise environment. Contact us for enterprise pricing."
+			question: "What platforms does Avalonia UI support?",
+			answer: "Avalonia UI supports Windows, macOS, Linux, iOS, Android, and WebAssembly. You write your code once and deploy it to all platforms."
 		},
 		{
-			question: "Are there free trials or discounts available for Greptile?",
-			answer: "Yes, we offer a 14-day free trial with no credit card required. We also offer discounts for startups and open source projects."
+			question: "How is Avalonia UI different from MAUI or Uno Platform?",
+			answer: "Avalonia UI focuses on desktop-first development with exceptional performance and a mature XAML implementation. It has been production-ready for years and powers thousands of applications worldwide."
 		},
 		{
-			question: "What programming languages does Greptile support?",
-			answer: "Greptile supports over 30 languages including Python, TypeScript/JavaScript, Go, Rust, Java, C++, and more."
+			question: "Can I use my existing WPF or UWP knowledge?",
+			answer: "Absolutely! Avalonia UI uses XAML syntax very similar to WPF and UWP. Most WPF developers can start building with Avalonia UI immediately with minimal learning curve."
 		},
 		{
-			question: "Is Greptile compatible with GitLab?",
-			answer: "Yes, Greptile works with both GitHub and GitLab."
+			question: "What IDEs and tools are supported?",
+			answer: "Avalonia UI works with Visual Studio, Visual Studio Code, and JetBrains Rider. We provide extensions for IntelliSense, XAML preview, and hot reload support."
 		},
 		{
-			question: "Can I use Greptile's API for my own product?",
-			answer: "Yes, we have a comprehensive API. Check out our documentation for more details."
+			question: "How is the performance compared to native apps?",
+			answer: "Avalonia UI uses hardware-accelerated rendering and compiles to native code, delivering performance comparable to native applications on each platform."
 		},
 		{
-			question: "What is AI code review?",
-			answer: "AI code review uses large language models to analyze your code changes and provide feedback on bugs, security issues, and coding standards."
+			question: "Where can I get help and support?",
+			answer: "Join our active community on GitHub Discussions, Discord, and Telegram. We also have comprehensive documentation, tutorials, and sample applications to help you get started."
 		}
 	];
 

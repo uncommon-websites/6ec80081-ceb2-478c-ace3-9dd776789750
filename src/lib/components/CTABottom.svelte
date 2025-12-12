@@ -1,60 +1,79 @@
 <section class="py-24 px-6 md:px-12 max-w-7xl mx-auto">
 	<div class="text-center mb-16">
 		<span class="font-mono text-[10px] text-gray-500 uppercase tracking-widest mb-4 block">
-			[ NEED CONVINCING? ]
+			[ GET STARTED TODAY ]
 		</span>
 		<h2 class="font-display text-4xl md:text-5xl font-medium tracking-tight text-gray-900 mb-4">
-			Tell your CTO about Greptile
+			Ready to build cross-platform?
 		</h2>
 		<p class="font-mono text-sm text-gray-600">
-			Need to convince your company to get Greptile? We can help.
+			Start building with Avalonia UI today. It's free, open source, and ready for production.
 		</p>
 	</div>
 
 	<div class="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
 		<div class="bg-[#F3F3F1] p-8 rounded-lg border border-gray-200">
-			<form class="space-y-4">
+			<div class="space-y-6">
 				<div>
-					<label for="to" class="block text-[10px] font-mono text-gray-500 uppercase mb-1">To:</label>
-					<input type="email" id="to" value="cto@acme.ai" class="w-full bg-white border border-gray-200 rounded px-3 py-2 text-sm font-mono text-gray-900 focus:outline-none focus:border-brand-green" />
-				</div>
-				
-				<div>
-					<label for="body" class="block text-[10px] font-mono text-gray-500 uppercase mb-1">Your Body & Name:</label>
-					<textarea id="body" rows="4" class="w-full bg-white border border-gray-200 rounded px-3 py-2 text-sm font-mono text-gray-900 focus:outline-none focus:border-brand-green resize-none">Calvin Kim</textarea>
-				</div>
-				
-				<div>
-					<label for="name" class="block text-[10px] font-mono text-gray-500 uppercase mb-1">Your Name:</label>
-					<input type="text" id="name" value="Ilya Mura" class="w-full bg-white border border-gray-200 rounded px-3 py-2 text-sm font-mono text-gray-900 focus:outline-none focus:border-brand-green" />
+					<h3 class="font-display text-2xl font-medium text-gray-900 mb-4">Quick Start Guide</h3>
+					<p class="text-sm text-gray-600 mb-6">Get up and running with Avalonia UI in minutes:</p>
 				</div>
 
-				<button type="button" class="w-full bg-black text-white py-3 rounded text-sm font-medium hover:bg-gray-800 transition-colors flex items-center justify-center gap-2 font-mono uppercase tracking-wide">
-					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
-					Send Email
-				</button>
-			</form>
-            
-            <div class="mt-6 pt-6 border-t border-gray-200 text-center">
-                <span class="text-xs text-gray-500 font-mono mb-4 block">OR</span>
-                <button class="bg-brand-green text-white px-6 py-3 rounded text-sm font-medium hover:bg-brand-green-hover transition-colors w-full font-mono uppercase tracking-wide">
-                    Try For Free ->
-                </button>
-                <p class="text-[10px] text-gray-400 font-mono uppercase mt-2">
-                    14 days free - no credit card required
-                </p>
-            </div>
+				<div class="space-y-4">
+					<div class="flex gap-3">
+						<div class="w-6 h-6 rounded-full bg-brand-green text-white flex items-center justify-center text-xs font-bold shrink-0">1</div>
+						<div>
+							<p class="text-sm font-mono text-gray-800">Install the templates</p>
+							<code class="text-xs text-gray-600 bg-white px-2 py-1 rounded mt-1 block">dotnet new install Avalonia.Templates</code>
+						</div>
+					</div>
+
+					<div class="flex gap-3">
+						<div class="w-6 h-6 rounded-full bg-brand-green text-white flex items-center justify-center text-xs font-bold shrink-0">2</div>
+						<div>
+							<p class="text-sm font-mono text-gray-800">Create your first app</p>
+							<code class="text-xs text-gray-600 bg-white px-2 py-1 rounded mt-1 block">dotnet new avalonia.app -n MyApp</code>
+						</div>
+					</div>
+
+					<div class="flex gap-3">
+						<div class="w-6 h-6 rounded-full bg-brand-green text-white flex items-center justify-center text-xs font-bold shrink-0">3</div>
+						<div>
+							<p class="text-sm font-mono text-gray-800">Run your app</p>
+							<code class="text-xs text-gray-600 bg-white px-2 py-1 rounded mt-1 block">dotnet run</code>
+						</div>
+					</div>
+				</div>
+
+				<div class="pt-6 border-t border-gray-200">
+					<button class="bg-brand-green text-white px-6 py-3 rounded text-sm font-medium hover:bg-brand-green-hover transition-colors w-full font-mono uppercase tracking-wide flex items-center justify-center gap-2">
+						View Full Documentation
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+					</button>
+					<p class="text-[10px] text-gray-400 font-mono uppercase mt-2 text-center">
+						free & open source - mit licensed
+					</p>
+				</div>
+			</div>
 		</div>
 
 		<div class="flex items-center justify-center">
-			<!-- Envelope Illustration -->
-			<div class="w-full max-w-xs aspect-[4/3] bg-white border border-gray-200 shadow-lg relative transform rotate-3 flex items-center justify-center">
-                <div class="absolute inset-0 bg-gray-50 opacity-50"></div>
-                <!-- Envelope Flap -->
-                <div class="absolute top-0 left-0 right-0 h-1/2 bg-white border-b border-gray-200 origin-top transform" style="clip-path: polygon(0 0, 50% 100%, 100% 0);"></div>
-                <div class="z-10 text-gray-300">
-                     <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
-                </div>
+			<!-- Code illustration -->
+			<div class="w-full max-w-xs bg-gray-900 rounded-lg shadow-2xl p-4 transform -rotate-2">
+				<div class="flex gap-1.5 mb-3">
+					<div class="w-3 h-3 rounded-full bg-red-500"></div>
+					<div class="w-3 h-3 rounded-full bg-yellow-500"></div>
+					<div class="w-3 h-3 rounded-full bg-green-500"></div>
+				</div>
+				<div class="space-y-2 font-mono text-xs">
+					<div class="text-purple-400">&lt;Window</div>
+					<div class="text-blue-400 pl-4">xmlns="..."</div>
+					<div class="text-blue-400 pl-4">Title="My App"&gt;</div>
+					<div class="text-gray-400 pl-4">&lt;TextBlock</div>
+					<div class="text-green-400 pl-8">Text="Hello Avalonia!"</div>
+					<div class="text-gray-400 pl-4">/&gt;</div>
+					<div class="text-purple-400">&lt;/Window&gt;</div>
+				</div>
 			</div>
 		</div>
 	</div>

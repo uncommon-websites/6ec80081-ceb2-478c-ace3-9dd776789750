@@ -3,48 +3,48 @@
 		<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-8 mb-16">
 			<div class="col-span-2 lg:col-span-1">
 				<a href="/" class="flex items-center gap-2 text-brand-dark font-medium text-xl tracking-tight mb-6">
-					<div class="w-6 h-6 bg-brand-green rounded-sm flex items-center justify-center text-white text-xs font-bold">G</div>
-					Greptile
+					<div class="w-6 h-6 bg-brand-green rounded-sm flex items-center justify-center text-white text-xs font-bold">A</div>
+					Avalonia UI
 				</a>
 			</div>
 			
 			<div>
 				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Product</h4>
 				<ul class="space-y-3">
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Pricing</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Docs ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">API ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Zapier ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Security</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Privacy</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Status</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Features</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Documentation ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">API Reference ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Templates</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Samples ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Roadmap</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Releases</a></li>
 				</ul>
 			</div>
 
 			<div>
-				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Company</h4>
+				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Community</h4>
 				<ul class="space-y-3">
 					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Blog</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Deep Dives</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Case Studies</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Examples</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Enterprise</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Careers</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Terms of Service</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Contact us</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">GitHub ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Discord ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Telegram ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Showcase</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Contributors</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Sponsorship</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Contact</a></li>
 				</ul>
 			</div>
 
 			<div>
-				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Helpful Links</h4>
+				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Resources</h4>
 				<ul class="space-y-3">
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">For YC Companies &lt;3</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Greptile vs CodeRabbit</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Greptile vs Bugbot</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">What affects merge time?</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">What is AI code review?</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Benchmarks</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Content Library</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Getting Started</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Avalonia vs MAUI</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Avalonia vs Uno Platform</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Migrating from WPF</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">XAML Guide</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Video Tutorials</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">FAQ</a></li>
 				</ul>
 			</div>
 		</div>
@@ -69,7 +69,7 @@
 			</div>
 			
 			<div class="text-[10px] font-mono text-gray-500 uppercase tracking-widest">
-				© 2024 Tazman, Inc.
+				© 2024 Avalonia UI. MIT Licensed.
 			</div>
 		</div>
 	</div>

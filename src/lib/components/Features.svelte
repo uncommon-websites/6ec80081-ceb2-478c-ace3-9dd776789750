@@ -11,56 +11,56 @@
 	<div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-16 gap-6 relative z-10">
 		<div>
 			<span class="font-mono text-[10px] text-gray-500 uppercase tracking-widest mb-4 block">
-				[ SHIP FASTER ]
+				[ POWERFUL FEATURES ]
 			</span>
 			<h2 class="font-display text-4xl md:text-5xl lg:text-6xl font-medium tracking-tight text-gray-900 mb-4">
-				Your second pair of eyes.
+				Everything you need.
 			</h2>
 			<p class="font-mono text-sm text-gray-600 max-w-lg">
-				Greptile automatically reviews PRs in Github and GitLab with full context of your codebase.
+				Avalonia UI provides a complete toolkit for building modern, native desktop applications.
 			</p>
 		</div>
 		
 		<button class="bg-black text-white px-5 py-2.5 rounded text-sm font-medium hover:bg-gray-800 transition-colors flex items-center gap-2 font-mono uppercase tracking-wide text-xs">
-			See Greptile in action ->
+			View Documentation ->
 		</button>
 	</div>
 
 	<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 		<FeatureCard 
-			subtitle="[ IN-LINE COMMENTS ]"
-			title="Get context-aware<br>comments on your PRs"
-			description="In-line comments to identify bugs, antipatterns, security issues, and more."
+			subtitle="[ CROSS-PLATFORM ]"
+			title="Write once,<br>run everywhere"
+			description="Single C# codebase deploys to Windows, macOS, Linux, iOS, Android, and WebAssembly."
 			tagColor="bg-brand-green"
 			tagIcon="arrow"
-            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=PR+Comments+UI"
+            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=Cross+Platform"
 		/>
 		
 		<FeatureCard 
-			subtitle="[ CUSTOM CONTEXT ]"
-			title="Describe your coding<br>standards in English"
-			description="Tell Greptile about your team's best practices. Greptile will enforce them across PRs."
+			subtitle="[ FAMILIAR XAML ]"
+			title="Use the tools<br>you already know"
+			description="Leverage your existing XAML knowledge with a syntax familiar to WPF and UWP developers."
 			tagColor="bg-accent-orange"
 			tagIcon="plus"
-            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=Coding+Standards+UI"
+            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=XAML+Editor"
 		/>
 		
 		<FeatureCard 
-			subtitle="[ PR SUMMARIES ]"
-			title="Quickly understand PRs<br>with AI-generated summaries"
-			description="Get mermaid diagrams, file-by-file breakdowns, and confidence scores for every PR."
+			subtitle="[ NATIVE PERFORMANCE ]"
+			title="Fast, responsive<br>native applications"
+			description="Hardware-accelerated rendering delivers smooth 60fps experiences on every platform."
 			tagColor="bg-accent-pink"
 			tagIcon="arrow"
-            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=PR+Summaries+UI"
+            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=Performance"
 		/>
 		
 		<FeatureCard 
-			subtitle="[ LEARNING ]"
-			title="Greptile learns by<br>reading your comments"
-			description="Greptile infers your team's coding standards by reading every engineer's comments on PRs."
+			subtitle="[ RICH CONTROLS ]"
+			title="Complete UI toolkit<br>out of the box"
+			description="Extensive library of controls, styles, and themes to build beautiful applications quickly."
 			tagColor="bg-accent-yellow"
 			tagIcon="plus"
-            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=Learning+UI"
+            imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=UI+Controls"
 		/>
 	</div>
 </section>
