@@ -2,6 +2,7 @@
 	import Header from '$lib/components/Header.svelte';
 	import Hero from '$lib/components/Hero.svelte';
 	import Features from '$lib/components/Features.svelte';
+	import AvaloniaAccelerate from '$lib/components/AvaloniaAccelerate.svelte';
 	import CodebaseContext from '$lib/components/CodebaseContext.svelte';
 	import CustomContext from '$lib/components/CustomContext.svelte';
 	import Learning from '$lib/components/Learning.svelte';
@@ -18,6 +19,7 @@
 <main>
 	<Hero />
 	<Features />
+	<AvaloniaAccelerate />
 	<CodebaseContext />
 	<CustomContext />
 	<Learning />
