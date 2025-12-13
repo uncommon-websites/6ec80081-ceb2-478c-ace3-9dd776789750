@@ -2,6 +2,7 @@
 	import Header from '$lib/components/Header.svelte';
 	import Hero from '$lib/components/Hero.svelte';
 	import Features from '$lib/components/Features.svelte';
+	import PixelPerfect from '$lib/components/PixelPerfect.svelte';
 	import AvaloniaAccelerate from '$lib/components/AvaloniaAccelerate.svelte';
 	import CodebaseContext from '$lib/components/CodebaseContext.svelte';
 	import CustomContext from '$lib/components/CustomContext.svelte';
@@ -19,6 +20,7 @@
 <main>
 	<Hero />
 	<Features />
+	<PixelPerfect />
 	<AvaloniaAccelerate />
 	<CodebaseContext />
 	<CustomContext />
