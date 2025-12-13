@@ -28,7 +28,7 @@
 		</p>
 	</div>
 
-	<div class="mt-auto relative w-full aspect-[4/3] bg-white rounded border border-gray-200 shadow-sm overflow-hidden group">
+	<div class="mt-auto relative w-full aspect-[4/3] bg-white rounded border border-gray-200 overflow-hidden group">
 		<!-- Placeholder for UI screenshot -->
         {#if imageSrc}
             <img src={imageSrc} alt={title} class="w-full h-full object-cover object-top" />

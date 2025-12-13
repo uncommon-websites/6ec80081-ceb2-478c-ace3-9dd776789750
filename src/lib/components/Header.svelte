@@ -35,7 +35,7 @@
 	</div>
 
 	<div class="flex items-center gap-4">
-		<a href="#docs" class="text-sm font-medium text-white bg-black px-4 py-2 rounded hover:bg-gray-800 transition-colors">Documentation</a>
-		<a href="#start" class="text-sm font-medium text-white bg-brand-green px-4 py-2 rounded hover:bg-brand-green-hover transition-colors shadow-sm">Get Started</a>
+		<a href="#docs" class="text-sm font-medium text-white bg-brand-dark px-4 py-2 rounded hover:opacity-90 transition-opacity">Documentation</a>
+		<a href="#start" class="text-sm font-medium text-white bg-brand-primary px-4 py-2 rounded hover:bg-brand-primary-hover transition-colors">Get Started</a>
 	</div>
 </header>

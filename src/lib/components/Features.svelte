@@ -21,7 +21,7 @@
 			</p>
 		</div>
 		
-		<button class="bg-black text-white px-5 py-2.5 rounded text-sm font-medium hover:bg-gray-800 transition-colors flex items-center gap-2 font-mono uppercase tracking-wide text-xs">
+		<button class="bg-brand-dark text-white px-5 py-2.5 rounded text-sm font-medium hover:opacity-90 transition-opacity flex items-center gap-2 font-mono uppercase tracking-wide text-xs">
 			View Documentation ->
 		</button>
 	</div>
@@ -31,7 +31,7 @@
 			subtitle="[ CROSS-PLATFORM ]"
 			title="Write once,<br>run everywhere"
 			description="Single C# codebase deploys to Windows, macOS, Linux, iOS, Android, and WebAssembly."
-			tagColor="bg-brand-green"
+			tagColor="bg-brand-primary"
 			tagIcon="arrow"
             imageSrc="https://placehold.co/600x400/FFFFFF/E5E7EB?text=Cross+Platform"
 		/>

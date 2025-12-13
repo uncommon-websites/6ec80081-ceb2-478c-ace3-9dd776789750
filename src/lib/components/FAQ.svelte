@@ -61,7 +61,7 @@
 			{#each faqs as faq, i}
 				<div class="border-b border-gray-200 pb-4">
 					<button class="w-full flex items-center justify-between text-left py-2 group" on:click={() => toggle(i)}>
-						<span class="font-mono text-sm font-medium text-gray-800 group-hover:text-brand-green transition-colors pr-8">{faq.question}</span>
+						<span class="font-mono text-sm font-medium text-gray-800 group-hover:text-brand-primary transition-colors pr-8">{faq.question}</span>
 						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-gray-400 transition-transform duration-300 {openIndex === i ? 'rotate-180' : ''}"><path d="m6 9 6 6 6-6"/></svg>
 					</button>
 					{#if openIndex === i}

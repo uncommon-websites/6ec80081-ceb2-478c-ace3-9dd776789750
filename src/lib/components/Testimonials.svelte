@@ -74,7 +74,7 @@
 
 	<div class="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
 		{#each testimonials as t}
-			<div class="bg-white p-6 rounded-lg border border-gray-200 shadow-sm break-inside-avoid hover:shadow-md transition-shadow">
+			<div class="bg-white p-6 rounded-lg border border-gray-200 break-inside-avoid hover:border-brand-primary/30 transition-colors">
 				<p class="font-mono text-xs leading-relaxed text-gray-700 mb-6">
 					"{t.quote}"
 				</p>

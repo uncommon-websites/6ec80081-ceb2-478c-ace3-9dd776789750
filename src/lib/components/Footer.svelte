@@ -11,40 +11,40 @@
 			<div>
 				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Product</h4>
 				<ul class="space-y-3">
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Features</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Documentation ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">API Reference ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Templates</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Samples ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Roadmap</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Releases</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Features</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Documentation ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">API Reference ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Templates</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Samples ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Roadmap</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Releases</a></li>
 				</ul>
 			</div>
 
 			<div>
 				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Community</h4>
 				<ul class="space-y-3">
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Blog</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">GitHub ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Discord ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Telegram ↗</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Showcase</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Contributors</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Sponsorship</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Contact</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Blog</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">GitHub ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Discord ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Telegram ↗</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Showcase</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Contributors</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Sponsorship</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Contact</a></li>
 				</ul>
 			</div>
 
 			<div>
 				<h4 class="font-mono text-[10px] font-bold text-gray-900 uppercase tracking-widest mb-4">Resources</h4>
 				<ul class="space-y-3">
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Getting Started</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Avalonia vs MAUI</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Avalonia vs Uno Platform</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Migrating from WPF</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">XAML Guide</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">Video Tutorials</a></li>
-					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-green transition-colors">FAQ</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Getting Started</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Avalonia vs MAUI</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Avalonia vs Uno Platform</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Migrating from WPF</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">XAML Guide</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">Video Tutorials</a></li>
+					<li><a href="#" class="text-xs font-mono text-gray-600 hover:text-brand-primary transition-colors">FAQ</a></li>
 				</ul>
 			</div>
 		</div>

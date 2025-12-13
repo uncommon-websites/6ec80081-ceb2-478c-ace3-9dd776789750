@@ -74,7 +74,7 @@
 				</p>
 			</div>
 
-			<div class="bg-[#F3F3F1] rounded-lg border border-gray-200 overflow-hidden">
+			<div class="bg-bg-card rounded-lg border border-gray-200 overflow-hidden">
 				<img 
 					src="/generated/image-close-up-of-hands-typing-on-mechanical-k-1765573878550-1.webp" 
 					alt="Professional development workflow"

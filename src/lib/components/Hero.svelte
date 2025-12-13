@@ -72,7 +72,7 @@
 	<div class="mt-20 border-t border-gray-300 pt-8">
 		<div class="flex items-center gap-2 text-[10px] font-mono uppercase tracking-wider text-gray-600 mb-6">
 			100,000+ APPS BUILT WITH AVALONIA UI. 
-			<a href="/" class="text-brand-green hover:underline flex items-center gap-1">
+			<a href="/" class="text-brand-primary hover:underline flex items-center gap-1">
 				TRUSTED BY .NET DEVELOPERS WORLDWIDE ->
 			</a>
 		</div>

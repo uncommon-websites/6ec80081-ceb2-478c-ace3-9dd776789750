@@ -48,13 +48,13 @@
                     <line x1="0" y1="0" x2="0" y2="200" stroke="#ddd" stroke-width="1" />
                     
                     <!-- Line: Growth curve -->
-                    <path d="M0,180 Q75,160 150,100 T300,20" fill="none" stroke="oklch(0.696 0.17 162.48)" stroke-width="3" />
-                    <text x="180" y="60" font-family="monospace" font-size="10" fill="oklch(0.696 0.17 162.48)" font-weight="bold">AVALONIA UI</text>
+                    <path d="M0,180 Q75,160 150,100 T300,20" fill="none" stroke="oklch(0.58 0.19 250)" stroke-width="3" />
+                    <text x="180" y="60" font-family="monospace" font-size="10" fill="oklch(0.58 0.19 250)" font-weight="bold">AVALONIA UI</text>
                     
                     <!-- Data points -->
-                    <circle cx="0" cy="180" r="3" fill="oklch(0.696 0.17 162.48)" />
-                    <circle cx="150" cy="100" r="3" fill="oklch(0.696 0.17 162.48)" />
-                    <circle cx="300" cy="20" r="3" fill="oklch(0.696 0.17 162.48)" />
+                    <circle cx="0" cy="180" r="3" fill="oklch(0.58 0.19 250)" />
+                    <circle cx="150" cy="100" r="3" fill="oklch(0.58 0.19 250)" />
+                    <circle cx="300" cy="20" r="3" fill="oklch(0.58 0.19 250)" />
                 </svg>
 			</div>
             <div class="flex justify-between mt-4 text-[10px] text-gray-400 font-mono uppercase">

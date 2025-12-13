@@ -28,25 +28,25 @@
 
             <!-- Floating Cards -->
             <div class="relative z-10 flex flex-col gap-4 w-full max-w-md">
-                <div class="bg-white p-4 rounded shadow-lg border border-gray-200 transform -rotate-2 translate-x-4">
+                <div class="bg-white p-4 rounded border border-gray-200 transform -rotate-2 translate-x-4">
                     <div class="flex items-center gap-2 mb-2">
-                        <span class="bg-brand-green text-white text-[10px] font-bold px-1.5 py-0.5 rounded uppercase">View</span>
+                        <span class="bg-brand-primary text-white text-[10px] font-bold px-1.5 py-0.5 rounded uppercase">View</span>
                         <span class="text-xs text-gray-500 font-mono">MainWindow.axaml</span>
                     </div>
                     <p class="text-sm font-mono text-gray-800">&lt;Window.DataContext&gt;</p>
                 </div>
 
-                <div class="bg-white p-4 rounded shadow-lg border border-gray-200 transform rotate-1 translate-x-8">
+                <div class="bg-white p-4 rounded border border-gray-200 transform rotate-1 translate-x-8">
                     <div class="flex items-center gap-2 mb-2">
-                        <span class="bg-brand-green text-white text-[10px] font-bold px-1.5 py-0.5 rounded uppercase">ViewModel</span>
+                        <span class="bg-brand-primary text-white text-[10px] font-bold px-1.5 py-0.5 rounded uppercase">ViewModel</span>
                         <span class="text-xs text-gray-500 font-mono">MainViewModel.cs</span>
                     </div>
                     <p class="text-sm font-mono text-gray-800">public ReactiveCommand&lt;Unit&gt;</p>
                 </div>
 
-                 <div class="bg-white p-4 rounded shadow-lg border border-gray-200 transform -rotate-1">
+                 <div class="bg-white p-4 rounded border border-gray-200 transform -rotate-1">
                     <div class="flex items-center gap-2 mb-2">
-                        <span class="bg-brand-green text-white text-[10px] font-bold px-1.5 py-0.5 rounded uppercase">Model</span>
+                        <span class="bg-brand-primary text-white text-[10px] font-bold px-1.5 py-0.5 rounded uppercase">Model</span>
                         <span class="text-xs text-gray-500 font-mono">User.cs</span>
                     </div>
                     <p class="text-sm font-mono text-gray-800">public class User : INotifyPropertyChanged</p>

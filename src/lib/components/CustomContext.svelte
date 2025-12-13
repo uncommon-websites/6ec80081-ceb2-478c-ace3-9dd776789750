@@ -47,13 +47,13 @@
 			</div>
 			
 			<div class="mt-12">
-				<button class="bg-black text-white px-5 py-2.5 rounded text-sm font-medium hover:bg-gray-800 transition-colors flex items-center gap-2 font-mono uppercase tracking-wide text-xs">
+				<button class="bg-brand-dark text-white px-5 py-2.5 rounded text-sm font-medium hover:opacity-90 transition-opacity flex items-center gap-2 font-mono uppercase tracking-wide text-xs">
 					View Developer Docs ->
 				</button>
 			</div>
 		</div>
 
-		<div class="bg-[#F3F3F1] p-2 rounded-lg border border-gray-200 shadow-sm">
+		<div class="bg-bg-card p-2 rounded-lg border border-gray-200">
             <div class="bg-white rounded border border-gray-200 overflow-hidden">
                 <img src="https://placehold.co/600x500/FFFFFF/E5E7EB?text=Rule+Configuration+UI" alt="Rule Configuration" class="w-full h-auto" />
             </div>

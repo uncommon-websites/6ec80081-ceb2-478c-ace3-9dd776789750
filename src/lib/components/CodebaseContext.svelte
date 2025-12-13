@@ -39,7 +39,7 @@
                     </g>
                     
                     <!-- Edges -->
-                    <g stroke="#F97316" stroke-width="0.5" opacity="0.6">
+                    <g stroke="oklch(0.58 0.19 250)" stroke-width="0.5" opacity="0.6">
                         <line x1="200" y1="150" x2="150" y2="100" />
                         <line x1="200" y1="150" x2="250" y2="100" />
                         <line x1="200" y1="150" x2="150" y2="200" />
